@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/youssefmohamedsabry/static/css/main.ccb1a20c.chunk.css",
+    "main.js": "/youssefmohamedsabry/static/js/main.e04222a5.chunk.js",
+    "main.js.map": "/youssefmohamedsabry/static/js/main.e04222a5.chunk.js.map",
+    "runtime-main.js": "/youssefmohamedsabry/static/js/runtime-main.abe4b1e1.js",
+    "runtime-main.js.map": "/youssefmohamedsabry/static/js/runtime-main.abe4b1e1.js.map",
+    "static/js/2.6ee6d230.chunk.js": "/youssefmohamedsabry/static/js/2.6ee6d230.chunk.js",
+    "static/js/2.6ee6d230.chunk.js.map": "/youssefmohamedsabry/static/js/2.6ee6d230.chunk.js.map",
+    "static/js/3.4cb6c09e.chunk.js": "/youssefmohamedsabry/static/js/3.4cb6c09e.chunk.js",
+    "static/js/3.4cb6c09e.chunk.js.map": "/youssefmohamedsabry/static/js/3.4cb6c09e.chunk.js.map",
+    "index.html": "/youssefmohamedsabry/index.html",
+    "static/css/main.ccb1a20c.chunk.css.map": "/youssefmohamedsabry/static/css/main.ccb1a20c.chunk.css.map",
+    "static/js/2.6ee6d230.chunk.js.LICENSE.txt": "/youssefmohamedsabry/static/js/2.6ee6d230.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abe4b1e1.js",
+    "static/js/2.6ee6d230.chunk.js",
+    "static/css/main.ccb1a20c.chunk.css",
+    "static/js/main.e04222a5.chunk.js"
+  ]
+}
